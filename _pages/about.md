@@ -1,6 +1,6 @@
 ---
 layout: about
-title: <b>Vinícius</b> Pinto
+title: 
 permalink: /
 subtitle: <i>Physics, Lasers, Optics, Photography</i>
 
