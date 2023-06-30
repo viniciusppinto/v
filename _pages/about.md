@@ -2,7 +2,7 @@
 layout: about
 title: <b>Vinícius</b> Pinto
 permalink: /
-subtitle: Physics, Lasers, Optics, Photography
+subtitle: <i>Physics, Lasers, Optics, Photography</i>
 
 profile:
   align: right
