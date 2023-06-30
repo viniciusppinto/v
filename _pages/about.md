@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: <b>Vinícius</b> Pinto
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: Physics, Lasers, Optics, Photography
 
 profile:
   align: right
