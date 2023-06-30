@@ -1,6 +1,6 @@
 ---
 layout: about
-title: 
+title: about
 permalink: /
 subtitle: <i>Physics, Lasers, Optics, Photography</i>
 
