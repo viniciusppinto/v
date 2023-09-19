@@ -14,16 +14,29 @@
     - title:  Master´s in progress in Física
       institution: São Carlos Institute of Physics, University of São Paulo, Brazil
       year: 2023 - 
-      description:
-        - Development of Low Energy and High Repetition Rate Femtosecond Laser Applied to Refractive Surgery
         
     - title: Graduation in Physics
       institution: São Carlos Institute of Physics, University of São Paulo, Brazil
       year: 2019-2022
 
+- title: Projects
+  type: time_table
+  contents:
+    - title: Development of Low Energy and High Repetition Rate Femtosecond Laser
+      institution: São Carlos Institute of Physics, University of São Paulo, Brazil
+      year: 2021 - 
+      
 - title: Experience
   type: time_table
   contents:
+    - title: Laboratory of Optical Instrumentation Applied to Ophthalmology and Agriculture
+      institution: São Carlos Institute of Physics, University of São Paulo, Brazil
+      year: 2021-
+      description:
+        -  Development of Low Energy and High Repetition Rate Femtosecond Laser <i>(in progress)</i>
+        -  Material texturing analysis through ripple generation by femtosecond laser marking for biomedical application <i>(in progress)</i>
+        -  Femtosecond laser micromachining analysis on PMMA and corneal stroma for laser assisted surgery <i>(in progress)</i>
+        
     - title: IFSC-USP SPIE Student Chapter
       institution: São Carlos Institute of Physics, University of São Paulo, Brazil
       year: 2021-
