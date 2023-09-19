@@ -55,7 +55,7 @@
         - 2022-2023  Program and Infrastructure Coordination
 
 - title: Academic Interests
-  type: nested_list
+  type: list
   contents:
     - Optical instrumentation (Optical imaging and Optical analysis)
     - Femtosecond lasers (Ressonators Design, Laser-tissue interactions, Nonlinear Optics and Micromachining)
