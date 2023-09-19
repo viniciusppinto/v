@@ -11,7 +11,6 @@ profile:
   address: >
     <p>CEPOF - FCM/GO - IFSC/USP</p>
     <p>São Carlos/SP - Brazil</p>
-    # <p>Your City, State 12345</p>
 
 news: false  # includes a list of news items
 selected_papers: true # includes a list of papers marked as "selected={true}"
