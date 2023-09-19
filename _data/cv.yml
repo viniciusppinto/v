@@ -57,13 +57,13 @@
 - title: Academic Interests
   type: nested_list
   contents:
-    - title: Optical Instrumentation
-    - title: Laser Development
+    - Optical instrumentation (Optical imaging and Optical analysis)
+    - Femtosecond lasers (Ressonators Design, Laser-tissue interactions, Nonlinear Optics and Micromachining)
+    - Free-interaction measurements
 
 - title: Other Interests
   type: list
   contents:
-    - <u>Research:</u> Optical imaging, Nonlinear Optics, Free-interaction measurements, etc
-    - <u>Hobbies:</u> Photography
+    - <u>Hobbies:</u> Analog Photography, Vinyl, etc
 
     
