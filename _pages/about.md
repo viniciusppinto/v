@@ -28,4 +28,4 @@ I am a physicist, working in optical instrumentation and a photographer in my sp
 
 Currently, I'm a <b>Master's student in Physics</b> at [University of São Paulo](www2.ifsc.usp.br/portal-ifsc/), where I graduated in Physics with a minor in Optics and Photonics (2019-2022). My research relies on laser development, emphasizing in high-repetition solid-state femtosecond lasers at [Optics and Photonics Research Center (CEPOF)](https://www.ifsc.usp.br/cepof/en/).
 
-I'm part of the organization of the Integrated Week of the [São Carlos Institute of Physics - SIFSC](https://sifsc.ifsc.usp.br/), participate in the [USP IFSC OPTICA Student Chapter](https://www.instagram.com/usp_ifsc_optica_chapter/) and of the [IFSC-USP SPIE Chapter](https://www.instagram.com/spiechapterusp/).
+I'm part of the organization of the [Integrated Week of the São Carlos Institute of Physics - SIFSC](https://sifsc.ifsc.usp.br/), participate in the [USP IFSC OPTICA Student Chapter](https://www.instagram.com/usp_ifsc_optica_chapter/) and of the [IFSC-USP SPIE Chapter](https://www.instagram.com/spiechapterusp/).
