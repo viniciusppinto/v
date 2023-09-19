@@ -25,6 +25,7 @@ Put your address / P.O. box / other info right below your picture. You can also 
 
 Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them. -->
 
+
 I am a physicist, working in optical instrumentation and a photographer in my spare time.
 
 Currently, I'm a <b>Master's student in Physics</b> at [University of São Paulo](www2.ifsc.usp.br/portal-ifsc/), where I graduated in Physics with a minor in Optics and Photonics (2019-2022). My research relies on laser development, emphasizing in high-repetition solid-state femtosecond lasers at [Optics and Photonics Research Center (CEPOF)](https://www.ifsc.usp.br/cepof/en/).
