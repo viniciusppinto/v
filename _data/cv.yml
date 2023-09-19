@@ -15,7 +15,7 @@
       institution: São Carlos Institute of Physics, University of São Paulo, Brazil
       year: 2023 - 
       description:
-        - title: Development of Low Energy and High Repetition Rate Femtosecond Laser Applied to Refractive Surgery
+        - Development of Low Energy and High Repetition Rate Femtosecond Laser Applied to Refractive Surgery
         
     - title: Graduation in Physics
       institution: São Carlos Institute of Physics, University of São Paulo, Brazil
@@ -42,8 +42,8 @@
       institution: São Carlos Institute of Physics, University of São Paulo, Brazil
       year: 2020 - 2023
       description:
-        - 2020 - 2021: Organization member
-        - 2022 - 2023: Program and Infrastructure Coordination
+        - 2020-2021  Organization member
+        - 2022-2023  Program and Infrastructure Coordination
 
 - title: Academic Interests
   type: nested_list
