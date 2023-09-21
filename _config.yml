@@ -69,7 +69,7 @@ og_image: # The site-wide (default for all links) Open Graph preview image
 # Social integration
 # -----------------------------------------------------------------------------
 
-github_username: viniciusppinto # your GitHub user name
+github_username: #viniciusppinto # your GitHub user name
 gitlab_username: # your GitLab user name
 twitter_username: # your Twitter handle
 mastodon_username: # your mastodon instance+username in the format instance.tld/@username
@@ -81,10 +81,10 @@ whatsapp_number: # your WhatsApp number (full phone number in international form
 orcid_id: 0000-0001-7198-0796 # your ORCID ID
 medium_username: # your Medium username
 quora_username: # your Quora username
-publons_id: # your ID on Publons
+publons_id: GXM-9138-2022 # your ID on Publons
 lattes_id: 3164547001554128 # your ID on Lattes (Brazilian Lattes CV)
 osf_id: # your OSF ID
-research_gate_profile: # your profile on ResearchGate
+research_gate_profile: Vinicius-Pinto-12 # your profile on ResearchGate
 scopus_id: # your profile on Scopus
 blogger_url: # your blogger URL
 work_url: # work page URL
