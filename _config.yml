@@ -156,9 +156,9 @@ disqus_shortname: al-folio # put your disqus shortname
 # External sources.
 # If you have blog posts published on medium.com or other external sources,
 # you can display them in your blog by adding a link to the RSS feed.
-external_sources:
-  - name: Behance
-    rss_url: https://www.behance.net/viniciusppinto
+#external_sources:
+  #- name: Behance
+   # rss_url: https://www.behance.net/viniciusppinto
 
 # -----------------------------------------------------------------------------
 # Collections
@@ -269,8 +269,8 @@ display_categories: ['blockquotes'] # these categories will be displayed on the 
 
 scholar:
 
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Pinto]
+  first_name: [Vinícius Pereira, V. P.]
 
   style: apa
   locale: en
