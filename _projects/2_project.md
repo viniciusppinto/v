@@ -7,9 +7,9 @@ importance: 2
 category: work
 ---
 
-**FOTOLAB** | Edição 330 | AGO. 2023<br><br>
+**FOTOLAB** | Edição 330 | AGO. 2023
 
-<img src="https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140.jpg 1140w, https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140-250x131.jpg 250w, https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140-700x368.jpg 700w, https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140-120x63.jpg 120w" sizes="(max-width: 800px) 100vw, 800px">
+<br><img src="https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140.jpg 1140w, https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140-250x131.jpg 250w, https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140-700x368.jpg 700w, https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140-120x63.jpg 120w" sizes="(max-width: 800px) 100vw, 800px">
 
 <p>Visto bem de perto, o cristal encaixado no equipamento óptico de um laboratório de física guarda surpresas. Quando um feixe de laser incide sobre o cristal de safira com titânio, forma essa estrela luminosa que se espalha em uma infinidade de pontos verdes. A espiadela na paisagem quase celeste é uma pausa na pesquisa, que envolve desenvolver experimentos com laser pulsado para usos de alta precisão, como gravação em metais, sem gerar corrosão, ou fazer cortes na córnea em cirurgia oftalmológica.</p><p><em>Imagem enviada pelo físico Vinícius Pereira Pinto, estudante de mestrado no Instituto de Física de São Carlos da Universidade de São Paulo (IFSC-USP) </em></p>
 
