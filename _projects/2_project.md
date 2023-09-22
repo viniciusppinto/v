@@ -1,80 +1,22 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: laboratory star
+description: Participation in FAPESP Journal in 2023
+img: assets/img/laser-cristal.jpg
 importance: 2
 category: work
 ---
 
-Every project has a beautiful feature showcase page.
-It's easy to include images in a flexible 3-column grid format.
-Make your photos 1/3, 2/3, or full width.
+FOTOLAB
+Edição 330
+AGO. 2023
 
-To give your project a background in the portfolio page, just add the img tag to the front matter like so:
+<img src="https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140.jpg 1140w, https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140-250x131.jpg 250w, https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140-700x368.jpg 700w, https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140-120x63.jpg 120w" sizes="(max-width: 1140px) 100vw, 1140px">
 
-    ---
-    layout: page
-    title: project
-    description: a project with a background image
-    img: /assets/img/12.jpg
-    ---
+<p>Visto bem de perto, o cristal encaixado no equipamento óptico de um laboratório de física guarda surpresas. Quando um feixe de laser incide sobre o cristal de safira com titânio, forma essa estrela luminosa que se espalha em uma infinidade de pontos verdes. A espiadela na paisagem quase celeste é uma pausa na pesquisa, que envolve desenvolver experimentos com laser pulsado para usos de alta precisão, como gravação em metais, sem gerar corrosão, ou fazer cortes na córnea em cirurgia oftalmológica.</p><p><em>Imagem enviada pelo físico Vinícius Pereira Pinto, estudante de mestrado no Instituto de Física de São Carlos da Universidade de São Paulo (IFSC-USP) </em></p><br>
 
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/1.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/3.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Caption photos easily. On the left, a road goes through a tunnel. Middle, leaves artistically fall in a hipster photoshoot. Right, in another hipster photoshoot, a lumberjack grasps a handful of pine needles.
-</div>
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.html path="assets/img/5.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    This image can also have a caption. It's like magic.
-</div>
+<p>Este texto foi originalmente publicado por <a href='https://revistapesquisa.fapesp.br/'>Pesquisa FAPESP</a> de acordo com a <a href='https://creativecommons.org/licenses/by-nd/4.0/'> licença Creative Commons CC-BY-NC-ND</a>. Leia o <a href='https://revistapesquisa.fapesp.br/estrela-de-laboratorio/' target='_blank'>original aqui</a>.</p><script>var img = new Image(); img.src='https://revistapesquisa.fapesp.br/republicacao_frame?id=487921&referer=' + window.location.href;</script>
 
-You can also put regular text between your rows of images.
-Say you wanted to write a little bit about your project before you posted the rest of the images.
-You describe how you toiled, sweated, *bled* for your project, and then... you reveal its glory in the next row of images.
-
-
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    You can also have artistically styled 2/3 + 1/3 images, like these.
-</div>
-
-
-The code is simple.
-Just wrap your images with `<div class="col-sm">` and place them inside `<div class="row">` (read more about the <a href="https://getbootstrap.com/docs/4.4/layout/grid/">Bootstrap Grid</a> system).
-To make images responsive, add `img-fluid` class to each; for rounded corners and shadows use `rounded` and `z-depth-1` classes.
-Here's the code for the last row of images above:
-
-{% raw %}
-```html
-<div class="row justify-content-sm-center">
-    <div class="col-sm-8 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/6.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-    <div class="col-sm-4 mt-3 mt-md-0">
-        {% include figure.html path="assets/img/11.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-```
-{% endraw %}
+English version:
+<p>Up close, the crystal nestled in the optical equipment of a physics laboratory holds surprises. When a laser beam strikes the titanium-doped sapphire crystal, it forms this luminous star that spreads into a multitude of green dots. This glimpse of an almost celestial landscape is a break from research, which involves developing experiments with pulsed lasers for high-precision uses, such as engraving metals without generating corrosion, or making cuts in the cornea in ophthalmic surgery.</p><p><em>Image provided by physicist Vinícius Pereira Pinto, a master's student at the São Carlos Institute of Physics at the University of São Paulo (IFSC-USP).</em></p><br><br>
+<p>This text was originally published by <a href='https://revistapesquisa.fapesp.br/' target='_blank'>Pesquisa FAPESP</a> under the <a href='https://creativecommons.org/licenses/by-nd/4.0/' target='_blank'>Creative Commons CC-BY-NC-ND license</a>. Read the <a href='https://revistapesquisa.fapesp.br/estrela-de-laboratorio/' target='_blank'>original here</a>.</p><script>var img = new Image(); img.src='https://revistapesquisa.fapesp.br/republicacao_frame?id=487921&referer=' + window.location.href;</script>
