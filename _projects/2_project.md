@@ -7,9 +7,7 @@ importance: 2
 category: work
 ---
 
-<p>**FOTOLAB**</br>
-Edição 330</br>
-AGO. 2023</p>
+**FOTOLAB**<br>Edição 330<br>AGO. 2023<br>
 
 <img src="https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140.jpg" class="attachment-post-thumbnail size-post-thumbnail wp-post-image" alt="" loading="lazy" srcset="https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140.jpg 1140w, https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140-250x131.jpg 250w, https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140-700x368.jpg 700w, https://revistapesquisa.fapesp.br/wp-content/uploads/2023/08/RPF-fotolab-laser-2023-08-site-1140-120x63.jpg 120w" sizes="(max-width: 800px) 100vw, 800px">
 
